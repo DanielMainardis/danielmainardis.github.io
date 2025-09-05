@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Direito Imobiliário",
+    "image": "./assets/terreno.png",
+    "tags": ["Direito", "Propriedade", "Usucapião"],
+    "link": "https://www.example.com/uso-capiao"
+  },
+    {
+    "name": "Uso Capião",
+    "image": "./assets/terreno.png",
+    "tags": ["Direito", "Propriedade", "Usucapião"],
+    "link": "https://www.example.com/uso-capiao"
+  },
+    {
+    "name": "Uso Capião",
+    "image": "./assets/terreno.png",
+    "tags": ["Direito", "Propriedade", "Usucapião"],
+    "link": "https://www.example.com/uso-capiao"
+  },
+    {
+    "name": "Uso Capião",
+    "image": "./assets/terreno.png",
+    "tags": ["Direito", "Propriedade", "Usucapião"],
+    "link": "https://www.example.com/uso-capiao"
+  }
+]
