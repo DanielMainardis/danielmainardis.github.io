@@ -1,26 +1,26 @@
 [
   {
     "name": "Direito Imobiliário",
-    "image": "./assets/terreno.png",
-    "tags": ["Direito", "Propriedade", "Usucapião"],
+    "image": "./assets/imobiliario.png",
+    "tags": ["Contratos", "Propriedade", "Registro"],
     "link": "https://www.example.com/uso-capiao"
   },
     {
-    "name": "Uso Capião",
-    "image": "./assets/terreno.png",
-    "tags": ["Direito", "Propriedade", "Usucapião"],
+    "name": "Direito Ambiental",
+    "image": "./assets/ambiental.png",
+    "tags": ["Sustentabilidade", "Licenciamento", "Poluição"],
     "link": "https://www.example.com/uso-capiao"
   },
     {
-    "name": "Uso Capião",
-    "image": "./assets/terreno.png",
-    "tags": ["Direito", "Propriedade", "Usucapião"],
+    "name": "Direito Previdenciário",
+    "image": "./assets/previdenciario.png",
+    "tags": ["Apostentadoria", "Seguridade", "Benefícios"],
     "link": "https://www.example.com/uso-capiao"
   },
     {
-    "name": "Uso Capião",
+    "name": "Direito Trabalhista",
     "image": "./assets/terreno.png",
-    "tags": ["Direito", "Propriedade", "Usucapião"],
+    "tags": ["Contratos de Trabalho", "Jornada", "Direitos"],
     "link": "https://www.example.com/uso-capiao"
   }
 ]
