@@ -56,6 +56,10 @@ body {
     margin-bottom: 24px;
 }
 
+.sobre{
+    text-align: center;
+}
+
 @media(max-width: 1200px){
     .app{
         gap: 40px;
