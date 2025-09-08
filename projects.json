@@ -3,24 +3,24 @@
     "name": "Direito Imobiliário",
     "image": "./assets/imobiliario.png",
     "tags": ["Contratos", "Propriedade", "Registro"],
-    "link": "https://www.example.com/uso-capiao"
+    "link": "#"
   },
     {
     "name": "Direito Ambiental",
     "image": "./assets/ambiental.png",
     "tags": ["Sustentabilidade", "Licenciamento", "Poluição"],
-    "link": "https://www.example.com/uso-capiao"
+    "link": "#"
   },
     {
     "name": "Direito Previdenciário",
     "image": "./assets/previdenciario.png",
     "tags": ["Apostentadoria", "Seguridade", "Benefícios"],
-    "link": "https://www.example.com/uso-capiao"
+    "link": "#"
   },
     {
     "name": "Direito Trabalhista",
     "image": "./assets/trabalhista.png",
     "tags": ["Contratos de Trabalho", "Jornada", "Direitos"],
-    "link": "https://www.example.com/uso-capiao"
+    "link": "#"
   }
 ]
