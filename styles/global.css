@@ -10,10 +10,10 @@
     }
 :root {
 
-    --primary: #334155;
+    --primary: #44474b;
     --secondary: #2C2D2E;
 
-    --link: #107fd2;
+    --link: #34383a;
 
     --background-card: #FFF;
     --background-badge: #E6EEF5;
@@ -66,13 +66,13 @@ body {
 }
 
 @media(max-width: 1080px){
-    .app1{
+    .app{
         gap: 24px;
     }
 }
 
 @media(max-width: 768px){
-    .app1{
+    .app{
         display: flex;
         flex-direction: column;
 
@@ -81,7 +81,7 @@ body {
 }
 
 @media(max-width: 550px){
-    .app1{
+    .app{
         .subtitle{
             font-size: 24px;
         }

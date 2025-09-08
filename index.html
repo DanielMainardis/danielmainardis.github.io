@@ -11,11 +11,20 @@
     <link rel="stylesheet" href="styles/global.css">
 
     <script src="https://unpkg.com/@phosphor-icons/web"></script>
+
+    <!-- Script AOS - Animações -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
 </head>
 <body>
     <div class="app">
 
-        <section class="card user">
+        <section 
+            class="card user"
+            data-aos="fade-right"
+            data-aos-duration="800"
+            data-aos-easing="ease-in-out"
+            >
             <picture>
                 <img src="assets/perfil.png" alt="Foto de Kauê Pereira">
             </picture>
@@ -53,12 +62,21 @@
             </div>
         </section>
 
-        <section class="card about">
+        <section 
+            class="card about"
+            data-aos="fade-left"
+            data-aos-duration="800"
+            data-aos-easing="ease-in-out">
+
             <h2 class="subtitle">Sobre mim</h2>
             <p>Olá! Eu sou Kauê Pereira, um advogado apaixonado por tecnologia e inovação. Com especialização em direito digital e proteção de dados, estou comprometido em ajudar meus clientes a navegar pelo complexo mundo jurídico da era digital. Minha missão é fornecer soluções jurídicas eficazes e personalizadas para proteger os interesses dos meus clientes em um ambiente cada vez mais conectado.  </p>
         </section>
 
-        <section class ="card projects">
+        <section 
+            class ="card projects"
+            data-aos="fade-right"
+            data-aos-duration="800"
+            data-aos-easing="ease-in-out">
             <h2 class="subtitle">ESPECIFICAÇÕES</h2>
 
             <div id="project__content">
@@ -68,5 +86,10 @@
     </div>
 
     <script src="./scripts/index.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+    <script>
+        AOS.init({ once: true })
+    </script>
 </body>
 </html>
